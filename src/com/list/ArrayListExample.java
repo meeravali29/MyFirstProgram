@@ -12,6 +12,7 @@ public class ArrayListExample {
         
 
         num.add(876);
+        num.add(83746);
         num.add(876);
         num.add(93845);
         num.add(928734);
